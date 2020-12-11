@@ -1,0 +1,7 @@
+# Ignore Racket generated files
+*.bak
+*.dep
+*.zo
+
+# Ignore Racket's compiled directories
+compiled/
